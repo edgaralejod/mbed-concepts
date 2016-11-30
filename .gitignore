@@ -1,0 +1,5 @@
+BUILD/
+.build
+.mbed
+projectfiles
+*.py*
